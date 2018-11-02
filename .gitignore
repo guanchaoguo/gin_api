@@ -1,0 +1,7 @@
+vendor
+.idea/workspace.xml
+.idea/vcs.xml
+runtime/*
+.idea
+conf/app.ini
+
